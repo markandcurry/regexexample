@@ -1,2 +1,2 @@
 # regexexample
-RegEx Patten
+Example form validation using regex
